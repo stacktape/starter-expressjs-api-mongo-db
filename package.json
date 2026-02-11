@@ -1,0 +1,20 @@
+{
+  "name": "expressjs-api-mongo-db",
+  "version": "1.0.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/stacktape/stacktape/issues"
+  },
+  "author": "Stacktape team <info@stacktape.com> (https://stacktape.com)",
+  "scripts": {},
+  "dependencies": {
+    "aws4": "^1.13.2",
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.6"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "stacktape": "^3.4.0"
+  }
+}
